@@ -12,9 +12,9 @@
                         "Hya there"
                   ],
                   "responses": [
-                        "Hi human, please tell me your GeniSys user",
-                        "Hello human, please tell me your GeniSys user",
-                        "Hola human, please tell me your GeniSys user"
+                        "Hi human, please tell me your Name",
+                        "Hello human, please tell me your Name",
+                        "Hola human, please tell me your Name"
                   ],
                   "extension":  {
                         "function": "",
@@ -32,14 +32,10 @@
             {
                   "intent": "GreetingResponse",
                   "text": [
-                        "My user is Adam",
-                        "This is Adam",
-                        "I am Adam",
-                        "It is Adam",
-                        "My user is Bella",
-                        "This is Bella",
-                        "I am Bella",
-                        "It is Bella"
+                        "My name is ",
+                        "This is ",
+                        "I am ",
+                        "It is "
                   ],
                   "responses": [
                         "Great! Hi <HUMAN>! How can I help?",
@@ -120,13 +116,13 @@
                         "Hello hope you are doing well?"
                   ],
                   "responses": [
-                        "Hello, I am great, how are you? Please tell me your GeniSys user",
-                        "Hello, how are you? I am great thanks! Please tell me your GeniSys user",
-                        "Hello, I am good thank you, how are you? Please tell me your GeniSys user",
-                        "Hi, I am great, how are you? Please tell me your GeniSys user",
-                        "Hi, how are you? I am great thanks! Please tell me your GeniSys user",
-                        "Hi, I am good thank you, how are you? Please tell me your GeniSys user",
-                        "Hi, good thank you, how are you? Please tell me your GeniSys user"
+                        "Hello, I am great, how are you? Please tell me your Name",
+                        "Hello, how are you? I am great thanks! Please tell me your Name",
+                        "Hello, I am good thank you, how are you? Please tell me your Name",
+                        "Hi, I am great, how are you? Please tell me your Name",
+                        "Hi, how are you? I am great thanks! Please tell me your Name",
+                        "Hi, I am good thank you, how are you? Please tell me your Name",
+                        "Hi, good thank you, how are you? Please tell me your Name"
                   ],
                   "extension":  {
                         "function": "",
